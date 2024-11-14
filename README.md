@@ -1,1 +1,1 @@
-it is a nursing home working model
+  An end to end database nursing home software which can be used in the real time 
